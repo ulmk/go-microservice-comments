@@ -1,2 +1,1 @@
-# go-microservice-comments
-Go implementation for comments microservice
+## Go implementation for comments microservice
